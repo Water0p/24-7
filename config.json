@@ -1,0 +1,9 @@
+{
+	"ip":"Water37.aternos.me:38072",
+	"port": 38072,
+	"name": "NOOB",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (afkbothume) (afkbothume)",
+	"login-cmd":"/login (afkbothume)"
+}
